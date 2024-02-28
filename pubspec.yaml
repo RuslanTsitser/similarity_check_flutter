@@ -1,14 +1,16 @@
 name: similarity_check_flutter
 description: "A new Flutter project."
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
-  sdk: '>=3.3.0 <4.0.0'
+  sdk: ">=3.3.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
+  similarity_check_c:
+    path: /Users/ruslantsitser/dev/projects/sandbox/similarity_check_c
 
 dev_dependencies:
   flutter_test:

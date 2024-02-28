@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - similarity_check_c (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - similarity_check_c (from `.symlinks/plugins/similarity_check_c/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  similarity_check_c:
+    :path: ".symlinks/plugins/similarity_check_c/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  similarity_check_c: f5f299d25ad6dea6fffd19572a759a09f0734085
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.15.2
